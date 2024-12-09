@@ -1,0 +1,3 @@
+﻿  Server.cpp
+D:\Computer_Network\Server\Server\Server.cpp(65,7): warning C4101: 'mess': unreferenced local variable
+  Server.vcxproj -> D:\Computer_Network\Server\x64\Debug\Server.exe

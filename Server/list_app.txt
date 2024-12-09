@@ -1,0 +1,328 @@
+Danh sách các ?ng d?ng ?ã ???c cài ??t trên máy:
+MSI App Player
+Cisco Packet Tracer 8.2.2 64Bit
+Git
+Microsoft 365 - en-us
+Microsoft 365 Apps for enterprise - en-us
+Microsoft OneDrive
+OpenSSL 3.4.0 (64-bit)
+R for Windows 4.4.1
+Riot Vanguard
+Nothing
+WinRAR 6.02 (64-bit)
+Microsoft.NET.Sdk.tvOS.Manifest-7.0.100 (x64)
+Microsoft .NET AppHost Pack - 6.0.22 (x64)
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+IIS Express Application Compatibility Database for x64
+WD_BLACK AN1500
+Intel(R) Serial IO
+Microsoft.NET.Sdk.macOS.Manifest-7.0.100 (x64)
+Microsoft ASP.NET Core 7.0.11 Targeting Pack (x64)
+Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic Runtimes
+RstDowngradeGuard
+ENE_DRAM_RGB_AIO
+Microsoft Windows Desktop Targeting Pack - 7.0.11 (x64)
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.38.33030
+Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)
+Microsoft .NET Toolset 7.0.401 (x64)
+Microsoft Visual C++ 2022 X64 Debug Runtime - 14.38.33030
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.38.33030
+icecap_collection_x64
+ENE_X-JMI_HAL
+Microsoft Web Deploy 4.0
+Microsoft .NET Host - 7.0.11 (x64)
+ENE_EHD_M2_HAL
+Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)
+Windows App Certification Kit Native Components
+vs_communityx64msi
+Intel(R) Chipset Device Software
+vs_Graphics_Singletonx64
+Microsoft .NET Host FX Resolver - 7.0.11 (x64)
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+Universal CRT Tools x64
+Microsoft Windows Desktop Runtime - 7.0.11 (x64)
+Microsoft System CLR Types for SQL Server 2019
+Microsoft ASP.NET Core 6.0.22 Targeting Pack (x64)
+vs_minshellinteropx64msi
+Microsoft .NET AppHost Pack - 6.0.22 (x64_x86)
+Microsoft .NET 6.0 Templates 7.0.401 (x64)
+Microsoft Windows Desktop Runtime - 6.0.22 (x64)
+VMware Workstation
+Microsoft Visual Studio Installer
+Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic
+Microsoft .NET Targeting Pack - 7.0.11 (x64)
+Microsoft .NET Runtime - 6.0.22 (x64)
+Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)
+OptaneDowngradeGuard
+Microsoft .NET AppHost Pack - 7.0.11 (x64_arm64)
+Microsoft .NET AppHost Pack - 7.0.11 (x64_arm)
+icecap_collection_x64
+UniKey version 4.2 RC4
+vs_devenx64vmsi
+Office 16 Click-to-Run Licensing Component
+Office 16 Click-to-Run Extensibility Component
+Office 16 Click-to-Run Localization Component
+Microsoft SQL Server 2016 LocalDB 
+Microsoft .NET AppHost Pack - 6.0.22 (x64_arm64)
+Intel® oneAPI Threading Building Blocks
+Microsoft ASP.NET Core 6.0.22 Shared Framework (x64)
+Microsoft .NET AppHost Pack - 6.0.22 (x64_arm)
+Microsoft .NET AppHost Pack - 7.0.11 (x64_x86)
+Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)
+ENE_MousePad_HAL
+Intel(R) Serial IO
+Microsoft.NET.Sdk.Android.Manifest-7.0.100 (x64)
+IIS 10.0 Express
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+Microsoft Teams Meeting Add-in for Microsoft Office
+IIS Express Application Compatibility Database for x86
+Windows PC Health Check
+NVIDIA Graphics Driver 497.17
+NVIDIA GeForce Experience 3.27.0.120
+NVIDIA Optimus Update 39.5.0.0
+NVIDIA PhysX System Software 9.20.0221
+NVIDIA Update 39.5.0.0
+NVIDIA FrameView SDK 1.3.8513.32290073
+NVIDIA SHIELD Streaming
+NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)
+NVIDIA Install Application
+NVIDIA Backend
+NVIDIA Container
+NVIDIA TelemetryApi helper for NvContainer
+NVIDIA LocalSystem Container
+NVIDIA Message Bus for NvContainer
+NVIDIA NVAPI Monitor plugin for NvContainer
+NVIDIA NetworkService Container
+NVIDIA Session Container
+NVIDIA User Container
+NVIDIA NvModuleTracker
+NVIDIA NodeJS
+NVIDIA Platform Controllers and Framework
+NVIDIA Watchdog Plugin for NvContainer
+NVIDIA Telemetry Client
+NVIDIA Virtual Host Controller
+Nvidia Share
+NVIDIA ShadowPlay 3.27.0.120
+NVIDIA SHIELD Wireless Controller Driver
+NVIDIA Update Core
+NVIDIA Virtual Audio 4.49.0.0
+Microsoft .NET AppHost Pack - 7.0.11 (x64)
+Intel(R) Compiler Shared Runtime Files
+Application Verifier x64 External Package (DesktopEditions)
+WD_BLACK D50
+VS JIT Debugger
+Microsoft.NET.Sdk.iOS.Manifest-7.0.100 (x64)
+Application Verifier x64 External Package (OnecoreUAP)
+Microsoft Update Health Tools
+vs_minshellx64msi
+Microsoft .NET SDK 7.0.401 (x64) from Visual Studio
+Microsoft ASP.NET Core 7.0.11 Shared Framework (x64)
+VS Script Debugging Common
+Microsoft .NET Runtime - 7.0.11 (x64)
+OnTapMoPhong
+Microsoft Windows Desktop Targeting Pack - 6.0.22 (x64)
+Microsoft .NET Targeting Pack - 6.0.22 (x64)
+Microsoft .NET 7.0 Templates 7.0.401 (x64)
+Windows SDK DirectX x64 Remote
+Microsoft.NET.Sdk.Maui.Manifest-7.0.100 (x64)
+IntelliTraceProfilerProxy
+Microsoft.NET.Sdk.MacCatalyst.Manifest-7.0.100 (x64)
+DiagnosticsHub_CollectionService
+Unity Hub 2.4.4
+Visual Studio Community 2022 Preview
+Adobe Creative Cloud
+Adobe Genuine Service
+Adobe Media Encoder 2024
+Visual Studio Community 2022
+Chicken Invaders 2 - The Next Wave Remastered
+Chicken Invaders: Cluck of the Dark Side demo v505ze
+Chicken Invaders: The Next Wave demo v3.04
+Chicken Invaders v1.30
+MathType 7
+EAGetMail Mail Component (remove only)
+GearUP Booster
+Google Chrome
+i686-8.1.0-posix-dwarf-rt_v6-rev0
+Adobe Illustrator 2024
+MSI NBFoundation Service
+Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic
+K-Lite Codec Pack 17.0.5 Full
+Microsoft Edge
+Microsoft Edge WebView2 Runtime
+Adobe Premiere Pro 2024
+PyCharm Community Edition 2024.1
+Steam
+UXP WebView Support
+WPTx64 (DesktopEditions)
+WinRT Intellisense UAP - Other Languages
+Microsoft ASP.NET Core 7.0.11 Targeting Pack (x86)
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Universal CRT Redistributable
+vs_githubprotocolhandlermsi
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.38.33030
+WinRT Intellisense PPI - Other Languages
+IDE C++ unique vsix for Visual Studio 2022
+Kits Configuration Installer
+Windows SDK ARM Desktop Tools
+IDE Utilities for Visual Studio 2022
+Universal CRT Redistributable
+icecap_collection_neutral
+Microsoft .NET Host FX Resolver - 7.0.11 (x86)
+Windows Mobile Extension SDK Contracts
+Microsoft Windows Desktop Targeting Pack - 6.0.22 (x86)
+Windows SDK Signing Tools
+Microsoft .NET Framework 4.7.2 Targeting Pack
+vs_CoreEditorFonts
+Windows SDK Desktop Headers arm64
+IDE C++ unique LLVM vsix for Visual Studio 2022
+Windows SDK Desktop Headers x86
+vcpp_crt.redist.clickonce
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)
+Windows SDK for Windows Store Apps Tools
+Windows SDK Redistributables
+Microsoft GameInput
+vs_communitysharedmsi
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+Universal CRT Tools x86
+Windows Mobile Extension SDK
+Windows SDK Desktop Libs x64
+Windows SDK for Windows Store Apps Contracts
+Windows SDK Desktop Headers arm
+Windows SDK Modern Non-Versioned Developer Tools
+Universal General MIDI DLS Extension SDK
+IDE C++ shared LLVM vsix for Visual Studio 2022
+Windows SDK for Windows Store Apps Libs
+IDE Common for Visual Studio
+Windows SDK EULA
+IDE Help for Visual Studio
+Compiler IDE 2023.2.0
+WinAppDeploy
+Windows Team Extension SDK
+Microsoft .NET Targeting Pack - 6.0.22 (x86)
+icecap_collectionresources
+vs_Graphics_Singletonx86
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.38.33030
+Windows SDK
+vs_clickoncebootstrappermsires
+icecap_collectionresourcesx64
+IDE DPCPP vsix for Visual Studio 2022
+icecap_collectionresourcesx64
+WinRT Intellisense Mobile - en-us
+icecap_collection_neutral
+Entity Framework 6.2.0 Tools  for Visual Studio 2022
+Windows SDK Desktop Tools x64
+SDK ARM Redistributables
+Microsoft Windows Desktop Runtime - 6.0.22 (x86)
+WinRT Intellisense PPI - en-us
+WinRT Intellisense UAP - en-us
+Microsoft HTML Help Workshop Package
+Intel® Distribution for GDB* Fortran Expression Evaluator for Visual Studio 2022
+Windows Desktop Extension SDK Contracts
+ENE_X-JMI_HAL
+IDE C++ oneAPI for Visual Studio 2022
+Windows SDK Desktop Libs arm
+Microsoft .NET Framework 4.7.1 Targeting Pack
+vs_clickoncebootstrappermsi
+vcpp_crt.redist.clickonce
+Microsoft ASP.NET Core 6.0.22 Shared Framework (x86)
+Microsoft .NET Runtime - 7.0.11 (x86)
+Intel(R) Compiler Shared Files
+Windows SDK for Windows Store Apps Headers
+Universal CRT Extension SDK
+IDE Common for Visual Studio 2022
+vs_minshellsharedmsi
+MSI Development Tools
+Microsoft .NET Targeting Pack - 7.0.11 (x86)
+Windows App Certification Kit x64 (OnecoreUAP)
+Teams Machine-Wide Installer
+oneAPI Common Install components Conda index tool
+vs_filehandler_amd64
+Windows SDK DirectX x86 Remote
+vs_FileTracker_Singleton
+SDK ARM Additions
+WPT Redistributables
+Windows SDK Desktop Headers x64
+Microsoft Windows Desktop Runtime - 7.0.11 (x86)
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft TestPlatform SDK Local Feed
+Microsoft ASP.NET Core 7.0.11 Shared Framework (x86)
+Windows App Certification Kit x64
+Windows SDK Facade Windows WinMD Versioned
+Realtek Ethernet Controller Driver
+Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic
+vs_filehandler_x86
+Windows SDK for Windows Store Apps Metadata
+Intel(R) OpenMP Library
+Microsoft .NET Framework 4.7.1 Doc Redirected Targeting Pack (ENU)
+Windows SDK for Windows Store Apps DirectX x86 Remote
+Windows Desktop Extension SDK
+MSI NBFoundation Service
+Microsoft .NET Framework 4.8 SDK
+Windows App Certification Kit SupportedApiList x86
+vs_communitymsires
+Windows IoT Extension SDK
+WD_BLACK AN1500
+Microsoft .NET Runtime - 6.0.22 (x86)
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.38.33030
+WD_BLACK D50
+Universal CRT Headers Libraries and Sources
+WPTx64 (OnecoreUAP)
+vs_BlendMsi
+Microsoft .NET Framework 4.8 Targeting Pack (ENU)
+Dev Utilities
+Intel® oneAPI Threading Building Blocks
+oneAPI Common Environment Scripts
+vs_devenvmsi
+vs_SQLClickOnceBootstrappermsi
+Intel(R) Chipset Device Software
+vs_minshellmsires
+IDE C++ VC Perflib for Visual Studio 2022
+oneAPI Common License
+Python Launcher
+Windows Team Extension SDK Contracts
+vs_vswebprotocolselectormsi
+Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)
+Windows SDK Desktop Tools x86
+Windows SDK for Windows Store Apps
+Microsoft .NET Framework 4.8 Targeting Pack
+WinRT Intellisense IoT - Other Languages
+vs_clickoncesigntoolmsi
+ENE_DRAM_RGB_AIO
+Microsoft .NET Host - 7.0.11 (x86)
+ENE_MousePad_HAL
+Microsoft Visual Studio Setup WMI Provider
+IntelliTraceProfilerProxy
+vcpp_crt.redist.clickonce
+Microsoft Visual C++ 2022 X86 Debug Runtime - 14.38.33030
+Windows SDK Desktop Tools arm64
+ENE IO Driver
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.38.33030
+Microsoft Windows Desktop Targeting Pack - 7.0.11 (x86)
+icecap_collectionresources
+WinRT Intellisense Desktop - en-us
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+WinRT Intellisense IoT - en-us
+ENE_EHD_M2_HAL
+Windows Software Development Kit - Windows 10.0.22621.1778
+Windows SDK for Windows Store Managed Apps Libs
+Windows SDK AddOn
+Windows SDK Desktop Libs arm64
+Windows SDK Modern Versioned Developer Tools
+IDE C++ Common for Visual Studio 2022
+Windows IoT Extension SDK Contracts
+Windows SDK Desktop Libs x86
+Intel® Distribution for GDB* for Visual Studio 2022
+Microsoft Visual Studio Setup Configuration
+MSI SDK
+WinRT Intellisense Desktop - Other Languages
+vs_tipsmsi
+Realtek Audio Driver
+vs_devenvsharedmsi
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Intel® Distribution for GDB*
+Microsoft ASP.NET Core 6.0.22 Targeting Pack (x86)
+IDE Help for Visual Studio
+vs_minshellinteropsharedmsi
+VS Immersive Activate Helper
